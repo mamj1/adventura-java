@@ -1,0 +1,46 @@
+Příručka ke hře:
+Jsi vězeň v magickém vězení, 
+aby jsi utekl potřebujěš magickou korunu.
+Tu složíš z tří kusů, které ve vězení najdeš.
+Magická hlava ti poradí kde je hledat.
+
+ve hře budeš omezen na následující 
+příkazy do textového řadku:
+
+rozhledni_se (přiblíží ti jak vypadá tvé okolí)
+nasaď (korunu) (slouží k nasazení koruny)
+slož korunu (slouží k sestavení koruny)
+prozkoumej (věc) (prozkoumá blíže věc a její obsah)
+oslov (npc) (oslový nehráčskou postavu)
+vezmi (věc)(zkusí vzít věc v lokacy)
+plož (věc)(zkusí položit věc do lokacy)
+nápověda (vrátí nápovědu ke hře)
+konec(ukončí hru)
+jdi (místo)(zkusí jít do lokace)
+
+
+
+
+DÁLE SPOILER
+
+
+
+
+
+
+
+tyto vstupy vedou k výhře:
+
+jdi místnost_s_kusem_koruny
+vezmi část_koruny
+jdi místnost_s_hlavou
+jdi místnost_s_ohništěm
+prozkoumej ohniště
+vezmi kousek_koruny
+jdi místnost_s_dřevem
+jdi místnost_s_truhlama
+prozkoumej železná_truhla
+vezmi kus_koruny
+jdi brána_s_oltářem
+slož korunu¨
+nasaď korunu

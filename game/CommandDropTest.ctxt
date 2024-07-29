@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CommandDropTest
+comment0.text=\r\n\ Testovac\u00ED\ t\u0159\u00EDda\ pro\ komplexn\u00ED\ otestov\u00E1n\u00ED\ t\u0159\u00EDdy\ {@link\ CommandDrop}.\r\n\r\n\ @author\ Jakub\ Mamica\r\n\ @version\ ZS-2022,\ 2023-1-10\r\n
+comment1.params=
+comment1.target=void\ testCommandDrop()
+numComments=2

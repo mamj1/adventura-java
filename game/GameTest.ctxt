@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GameTest
+comment0.text=\r\n\ Testovac\u00ED\ t\u0159\u00EDda\ pro\ komplexn\u00ED\ otestov\u00E1n\u00ED\ cel\u00E9\ hry.\ M\u011Bli\ byste\ v\ n\u00ED\ otestovat\r\n\ v\u0161echny\ hern\u00ED\ sc\u00E9n\u00E1\u0159e\ <i>(zp\u016Fsoby,\ kter\u00FDmi\ lze\ hru\ proj\u00EDt\ a\ ukon\u010Dit,\ a\u0165\ u\u017E\r\n\ v\u00FDhrou,\ nebo\ prohrou)</i>.\r\n\r\n\ @author\ Jan\ \u0158\u00EDha\r\n\ @version\ ZS-2022,\ 2022-12-14\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ testBasicScenario()
+numComments=3

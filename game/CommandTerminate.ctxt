@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommandTerminate
+comment0.text=\r\n\ T\u0159\u00EDda\ implementuj\u00EDc\u00ED\ p\u0159\u00EDkaz\ pro\ p\u0159ed\u010Dasn\u00E9\ ukon\u010Den\u00ED\ hry.\r\n\r\n\ @author\ Jan\ \u0158\u00EDha\r\n\ @version\ ZS-2022,\ 2022-12-14\r\n
+comment1.params=game
+comment1.target=CommandTerminate(Game)
+comment1.text=\r\n\ Konstruktor\ t\u0159\u00EDdy.\r\n\r\n\ @param\ game\ hra,\ ve\ kter\u00E9\ se\ bude\ p\u0159\u00EDkaz\ pou\u017E\u00EDvat\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Metoda\ vrac\u00ED\ n\u00E1zev\ p\u0159\u00EDkazu\ tj.&nbsp;\ slovo\ <b>konec</b>.\r\n\r\n\ @return\ n\u00E1zev\ p\u0159\u00EDkazu\r\n
+comment3.params=parameters
+comment3.target=java.lang.String\ execute(java.lang.String[])
+comment3.text=\r\n\ Metoda\ ukon\u010D\u00ED\ hru.\r\n\r\n\ @param\ parameters\ parametry\ p\u0159\u00EDkazu\ <i>(aktu\u00E1ln\u011B\ se\ ignoruj\u00ED)</i>\r\n\ @return\ informace\ pro\ hr\u00E1\u010De,\ kter\u00E9\ hra\ vyp\u00ED\u0161e\ na\ konzoli\r\n
+numComments=4

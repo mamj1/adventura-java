@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Start
+comment0.text=\r\n\ Spou\u0161t\u011Bc\u00ED\ t\u0159\u00EDda\ aplikace.\r\n\r\n\ @author\ Jan\ \u0158\u00EDha\r\n\ @version\ ZS-2022,\ 2022-12-14\r\n
+comment1.params=
+comment1.target=Start()
+comment1.text=\r\n\ Konstruktor\ t\u0159\u00EDdy\ {@link\ Start}\ je\ priv\u00E1tn\u00ED,\ t\u0159\u00EDda\ obsahuje\ pouze\ statickou\r\n\ metodu\ {@link\ \#main(String[])\ main}\ pro\ spu\u0161t\u011Bn\u00ED\ aplikace,\ nen\u00ED\ t\u0159eba\ vytv\u00E1\u0159et\r\n\ jej\u00ED\ instance.\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ Spou\u0161t\u011Bc\u00ED\ metoda\ aplikace.\ Vytvo\u0159\u00ED\ instanci\ hry,\ u\u017Eivatelsk\u00E9ho\ rozhran\u00ED\ a\ zah\u00E1j\u00ED\ hru.\r\n\r\n\ @param\ args\ parametry\ aplikace\ z\ p\u0159\u00EDkazov\u00E9\ \u0159\u00E1dky,\ aktu\u00E1ln\u011B\ se\ nijak\ nevyu\u017E\u00EDvaj\u00ED\r\n
+numComments=3

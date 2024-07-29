@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommandAsk
+comment0.text=\r\n\ T\u0159\u00EDda\ implementuj\u00EDc\u00ED\ p\u0159\u00EDkaz\ pro\ osloven\u00ED\ nehr\u00E1\u010Dsk\u00E9\ postavy.\r\n\r\n\ @author\ Jakub\ Mamica\ \r\n\ @version\ ZS-2022,\ 2023-1-10\r\n
+comment1.params=game
+comment1.target=CommandAsk(Game)
+comment1.text=\r\n\ Konstruktor\ t\u0159\u00EDdy.\r\n\r\n\ @param\ game\ hra,\ ve\ kter\u00E9\ se\ bude\ p\u0159\u00EDkaz\ pou\u017E\u00EDvat\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Metoda\ vrac\u00ED\ n\u00E1zev\ p\u0159\u00EDkazu\ tj.&nbsp;\ slovo\ <b>oslov</b>.\r\n\r\n\ @return\ n\u00E1zev\ p\u0159\u00EDkazu\r\n
+comment3.params=parameters
+comment3.target=java.lang.String\ execute(java.lang.String[])
+comment3.text=\r\n\ Metoda\ se\ pokus\u00ED\ oslovit\ npc.\r\n\ Nejprve\ zkontroluje\ po\u010Det\ parametr\u016F.\ Pokud\ nebyl\ zad\u00E1n\ \u017E\u00E1dn\u00FD\r\n\ parametr\ ,\ nebo\ bylo\ zad\u00E1no\ dva\ a\ v\u00EDce\ parametr\u016F\ ,\ vr\u00E1t\u00ED\ chybov\u00E9\ hl\u00E1\u0161en\u00ED.\r\n\ \ Pokud\ byl\ zad\u00E1n\ pr\u00E1v\u011B\ jeden\ parametr,\ zkontroluje,\ zda\r\n\ v\ aktu\u00E1ln\u00ED\ oblasti\ je\ npc\ s\ dan\u00FDm\ n\u00E1zvem.\ Pokud\ ne,vr\u00E1t\u00ED\ chybov\u00E9\ hl\u00E1\u0161en\u00ED.\r\n\ \ Pokud\ v\u0161echny\ kontroly\ prob\u011Bhnou\ v\ po\u0159\u00E1dku,\ oslov\u00FD\ npc\ a\ vr\u00E1t\u00ED\ jeho\ odpov\u011B\u010F\r\n\r\n\ @param\ parameters\ parametry\ p\u0159\u00EDkazu\ <i>(o\u010Dek\u00E1v\u00E1\ se\ pole\ s\ jedn\u00EDm\ prvkem)</i>\r\n\ @return\ informace\ pro\ hr\u00E1\u010De,\ kter\u00E9\ hra\ vyp\u00ED\u0161e\ na\ konzoli\r\n
+numComments=4

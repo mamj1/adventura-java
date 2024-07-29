@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommandPick
+comment0.text=\r\n\ T\u0159\u00EDda\ implementuj\u00EDc\u00ED\ p\u0159\u00EDkaz\ pro\ sb\u00EDr\u00E1n\u00ED\ p\u0159edm\u011Bt\u016F.\r\n\r\n\ @author\ Jan\ \u0158\u00EDha\r\n\ @author\ Jakub\ Mamica\ \r\n\ @version\ ZS-2022,\ 2023-1-10\r\n
+comment1.params=game
+comment1.target=CommandPick(Game)
+comment1.text=\r\n\ Konstruktor\ t\u0159\u00EDdy.\r\n\r\n\ @param\ game\ hra,\ ve\ kter\u00E9\ se\ bude\ p\u0159\u00EDkaz\ pou\u017E\u00EDvat\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Metoda\ vrac\u00ED\ n\u00E1zev\ p\u0159\u00EDkazu\ tj.&nbsp;\ slovo\ <b>vezmi</b>.\r\n\r\n\ @return\ n\u00E1zev\ p\u0159\u00EDkazu\r\n
+comment3.params=parameters
+comment3.target=java.lang.String\ execute(java.lang.String[])
+comment3.text=\r\n\ Metoda\ se\ pokus\u00ED\ sebrat\ p\u0159edm\u011Bt\ z\ aktu\u00E1ln\u00ED\ oblasti\ a\ ulo\u017Eit\ ho\ do\ hr\u00E1\u010Dova\r\n\ invent\u00E1\u0159e.\ Nejprve\ zkontroluje\ po\u010Det\ parametr\u016F.\ Pokud\ nebyl\ zad\u00E1n\ \u017E\u00E1dn\u00FD\r\n\ parametr\ <i>(tj.\ nezn\u00E1me\ po\u017Eadovan\u00FD\ p\u0159edm\u011Bt)</i>,\ nebo\ bylo\ zad\u00E1no\ dva\ a\r\n\ v\u00EDce\ parametr\u016F\ <i>(tj.\ hr\u00E1\u010D\ chce\ sebrat\ v\u00EDce\ p\u0159edm\u011Bt\u016F\ sou\u010Dasn\u011B)</i>,\ vr\u00E1t\u00ED\r\n\ chybov\u00E9\ hl\u00E1\u0161en\u00ED.\ Pokud\ byl\ zad\u00E1n\ pr\u00E1v\u011B\ jeden\ parametr,\ zkontroluje,\ zda\r\n\ v\ aktu\u00E1ln\u00ED\ oblasti\ je\ p\u0159edm\u011Bt\ s\ dan\u00FDm\ n\u00E1zvem,\ zda\ je\ p\u0159enositeln\u00FD\ a\ zda\r\n\ na\ n\u011Bj\ hr\u00E1\u010D\ m\u00E1\ v\ invent\u00E1\u0159i\ m\u00EDsto\ <i>(tj.\ zda\ ho\ lze\ sebrat)</i>.\ Pokud\ ne,\r\n\ vr\u00E1t\u00ED\ chybov\u00E9\ hl\u00E1\u0161en\u00ED.\ Pokud\ v\u0161echny\ kontroly\ prob\u011Bhnou\ v\ po\u0159\u00E1dku,\ provede\r\n\ p\u0159esun\ p\u0159edm\u011Btu\ z\ oblasti\ do\ invent\u00E1\u0159e\ a\ vr\u00E1t\u00ED\ informaci\ o\ sebr\u00E1n\u00ED\ p\u0159edm\u011Btu.\r\n\r\n\ @param\ parameters\ parametry\ p\u0159\u00EDkazu\ <i>(o\u010Dek\u00E1v\u00E1\ se\ pole\ s\ jedn\u00EDm\ prvkem)</i>\r\n\ @return\ informace\ pro\ hr\u00E1\u010De,\ kter\u00E9\ hra\ vyp\u00ED\u0161e\ na\ konzoli\r\n
+numComments=4

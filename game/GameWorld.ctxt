@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment0.text=\r\n\ T\u0159\u00EDda\ p\u0159edstavuj\u00EDc\u00ED\ mapu\ oblast\u00ED\ hern\u00EDho\ sv\u011Bta.\ V\ datov\u00E9m\ atributu\r\n\ {@link\ \#currentArea}\ uchov\u00E1v\u00E1\ odkaz\ na\ aktu\u00E1ln\u00ED\ oblast,\ ve\ kter\u00E9\r\n\ se\ hr\u00E1\u010D\ pr\u00E1v\u011B\ nach\u00E1z\u00ED.\ Z\ aktu\u00E1ln\u00ED\ oblasti\ je\ mo\u017En\u00E9\ se\ prost\u0159ednictv\u00EDm\r\n\ jej\u00EDch\ soused\u016F\ dostat\ ke\ v\u0161em\ p\u0159\u00EDstupn\u00FDm\ oblastem\ ve\ h\u0159e.\r\n\ <p>\r\n\ Ve\u0161ker\u00E9\ informace\ o\ stavu\ hry\ <i>(mapa\ oblast\u00ED,\ invent\u00E1\u0159,\ vlastnosti\r\n\ hlavn\u00ED\ postavy,\ informace\ o\ pln\u011Bn\u00ED\ \u00FAkol\u016F\ apod.)</i>\ by\ m\u011Bly\ b\u00FDt\ ulo\u017Een\u00E9\r\n\ zde\ v\ podob\u011B\ datov\u00FDch\ atribut\u016F.\r\n\r\n\ @author\ Jan\ \u0158\u00EDha\r\n\ @version\ ZS-2022,\ 2022-12-14\r\n
+comment1.params=
+comment1.target=GameWorld()
+comment1.text=\r\n\ Konstruktor\ t\u0159\u00EDdy,\ vytvo\u0159\u00ED\ jednotliv\u00E9\ oblasti,\ propoj\u00ED\ je\ pomoc\u00ED\ v\u00FDchod\u016F\ a\ vlo\u017E\u00ED\ do\ nich\ p\u0159edm\u011Bty.\r\n
+comment2.params=
+comment2.target=Area\ getCurrentArea()
+comment2.text=\r\n\ Metoda\ vrac\u00ED\ odkaz\ na\ aktu\u00E1ln\u00ED\ oblast,\ ve\ kter\u00E9\ se\ hr\u00E1\u010D\ pr\u00E1v\u011B\ nach\u00E1z\u00ED.\r\n\r\n\ @return\ aktu\u00E1ln\u00ED\ oblast\r\n
+comment3.params=currentArea
+comment3.target=void\ setCurrentArea(Area)
+comment3.text=\r\n\ Metoda\ nastav\u00ED\ aktu\u00E1ln\u00ED\ oblast.\ Pou\u017E\u00EDv\u00E1\ ji\ p\u0159\u00EDkaz\ {@link\ CommandMove}\r\n\ p\u0159i\ p\u0159echodu\ mezi\ oblastmi.\r\n\r\n\ @param\ currentArea\ oblast,\ kter\u00E1\ bude\ nastavena\ jako\ aktu\u00E1ln\u00ED\r\n
+comment4.params=
+comment4.target=boolean\ isVictorious()
+comment4.text=\r\n\ Metoda\ vrac\u00ED\ informaci,\ zda\ hr\u00E1\u010D\ vyhr\u00E1l\ <i>(zda\ jsou\ spln\u011Bn\u00E9\ v\u0161echny\r\n\ \u00FAkoly\ a\ podm\u00EDnky\ nutn\u00E9\ pro\ v\u00FDhru)</i>.\r\n\r\n\ @return\ {@code\ true},\ pokud\ hr\u00E1\u010D\ vyhr\u00E1l;\ jinak\ {@code\ false}\r\n
+comment5.params=
+comment5.target=void\ setVictorious()
+comment6.params=
+comment6.target=Bag\ getBag()
+comment6.text=\r\n\ Metoda\ vrac\u00ED\ odkaz\ na\ aktu\u00E1ln\u00ED\ invent\u00E1\u0159.\r\n\r\n\ @return\ aktu\u00E1ln\u00ED\ invent\u00E1\u0159\r\n
+numComments=7
